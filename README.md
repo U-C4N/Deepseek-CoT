@@ -2,7 +2,7 @@
 
 DeepSeek Chatbot is a web application that offers an advanced chat experience using the DeepSeek AI API. Built on the Streamlit framework, this application allows users to interact with AI and optionally view the AI's thought process.
 
-![Deepseek-CoT Animation](/animation.gif)
+![Deepseek-CoT Animation](/Animation.gif)
 
 
 ## Features

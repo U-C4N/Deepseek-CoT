@@ -46,14 +46,6 @@ DeepSeek Chatbot is a web application that offers an advanced chat experience us
 
 See `requirements.txt` for the full list of dependencies.
 
-## Contributing
-
-1. Fork this repository
-2. Create a new feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to your branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

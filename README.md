@@ -17,7 +17,7 @@ DeepSeek Chatbot is a web application that offers an advanced chat experience us
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/deepseek-chatbot.git
+   git clone https://github.com/U-C4N/deepseek-chatbot.git
    cd deepseek-chatbot
    ```
 
